@@ -1,1 +1,1 @@
-# rjscogginsFinalProject
+# FinalProject
